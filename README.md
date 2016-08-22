@@ -1,0 +1,2 @@
+# coreplugin
+Core plugin
